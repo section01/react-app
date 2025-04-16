@@ -3,5 +3,5 @@
 # create react project
 npx create-react-app . --template typescript
 
-# init
-npm init
+# package.json install
+npm install
